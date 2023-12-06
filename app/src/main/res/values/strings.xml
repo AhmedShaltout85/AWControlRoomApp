@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AWControlRoomApp</string>
+    <string name="company_name">شركة مياه الشرب بالأسكندرية</string>
+    <string name="sector_name">قطاع التكنولوجيا والخدمات الرقمية</string>
+    <string name="depart_name">إدارة البرمجيات وصيانتها</string>
+    <string name="splash_title">تطبيق غرفة التحكم v1</string>
+    <string name="login_user">دخول</string>
+    <string name="enter_your_name">إسم المستخدم</string>
+    <string name="enter_your_password">كلمة المرور</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login_text">تسجيل الدخول</string>
+    <string name="live_location">تحديد موقع نقطة</string>
+    <string name="live_video">بث مباشرفيديو</string>
+</resources>
